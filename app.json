@@ -16,6 +16,9 @@
     "assetBundlePatterns": [
       "**/*"
     ],
+    "android": {
+      "package": "com.codingmechanic.mapcuny"
+    },
     "ios": {
       "supportsTablet": true
     },
