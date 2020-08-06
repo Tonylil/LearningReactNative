@@ -17,7 +17,10 @@
       "**/*"
     ],
     "android": {
-      "package": "com.codingmechanic.mapcuny"
+      "package": "com.codingmechanic.mapcuny",
+      "config": {
+      "googleMaps": { "apiKey": "Empty" }   
+   }
     },
     "ios": {
       "supportsTablet": true
