@@ -19,7 +19,7 @@
     "android": {
       "package": "com.codingmechanic.mapcuny",
       "config": {
-      "googleMaps": { "apiKey": "Nope" }   
+      "googleMaps": { "apiKey": "Ayee?" }   
    }
     },
     "ios": {
