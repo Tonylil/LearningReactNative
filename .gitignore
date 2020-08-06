@@ -11,3 +11,6 @@ web-build/
 
 # macOS
 .DS_Store
+
+# git update-index --assume-unchanged app.json //Disable tracking
+# git update-index --no-assume-unchanged <file> //reenabling Tracking
